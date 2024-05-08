@@ -1,0 +1,26 @@
+{
+    "480332": {
+        "version": "0.2.6",
+        "goVersion": "go1.18.1",
+        "debianBinary": "https:\/\/github.com\/soar-robotics\/testnet-binaries\/raw\/main\/v0.2.6\/debian11\/soarchaind",
+        "ubuntuBinary": "https:\/\/github.com\/soar-robotics\/testnet-binaries\/raw\/main\/v0.2.6\/ubuntu22.04\/soarchaind"
+    },
+    "871084": {
+        "version": "0.2.8",
+        "goVersion": "go1.18.1",
+        "debianBinary": "https:\/\/github.com\/soar-robotics\/testnet-binaries\/raw\/main\/v0.2.8\/debian11\/soarchaind",
+        "ubuntuBinary": "https:\/\/github.com\/soar-robotics\/testnet-binaries\/raw\/main\/v0.2.8\/ubuntu22.04\/soarchaind"
+    },
+    "1020400": {
+        "version": "0.2.9",
+        "goVersion": "go1.18.1",
+        "debianBinary": "https:\/\/github.com\/soar-robotics\/testnet-binaries\/raw\/main\/v0.2.9\/debian11\/soarchaind",
+        "ubuntuBinary": "https:\/\/github.com\/soar-robotics\/testnet-binaries\/raw\/main\/v0.2.9\/ubuntu22.04\/soarchaind"
+    },
+    "1175732": {
+        "version": "0.2.10",
+        "goVersion": "go1.18.1",
+        "debianBinary": "https:\/\/github.com\/soar-robotics\/testnet-binaries\/raw\/main\/v0.2.10\/debian11\/soarchaind",
+        "ubuntuBinary": "https:\/\/github.com\/soar-robotics\/testnet-binaries\/raw\/main\/v0.2.10\/ubuntu22.04\/soarchaind"
+    }
+} 
